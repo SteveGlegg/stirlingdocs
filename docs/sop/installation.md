@@ -43,15 +43,15 @@ Remove all doors and drawers if this has not already been done
 
 ## Installation Prep
 
-Use a **stud finder** to locate the Studs.
+1 Use a **stud finder** to locate the Studs.
 
-Check the level of the floor and ceiling with a laser level
+2 Check the level of the floor and ceiling with a laser level
 
-Start installing the cabinets from a wall or corner level them then screw them to the wall. Where possible screw several cabinets together level them then screw them to the wall. Use **2 ½” screws** to attached cabinets to walls and **1 ¼** to screw them together.
+3 Start installing the cabinets from a wall or corner level them then screw them to the wall. Where possible screw several cabinets together level them then screw them to the wall. Use **2 ½” screws** to attached cabinets to walls and **1 ¼** to screw them together.
 
-When screwing cabinets together place the screws just in front of the hinge plate when possible typically place them where it will be difficult to see them.
+4 When screwing cabinets together place the screws just in front of the hinge plate when possible typically place them where it will be difficult to see them.
 
-There should be a **minimum** of **two screws** in the front edge of upper and lower cabinets. Try to put screws about 1 ¼” ( in line with the line boring), from the front face and 2” from the top and bottom there should also be one screws in the top back corner and one in the lower back corner. This so the cabinets won’t pull apart if they are aren’t perfectly level or flat against the wall.
+5 There should be a **minimum** of **two screws** in the front edge of upper and lower cabinets. Try to put screws about 1 ¼” ( in line with the line boring), from the front face and 2” from the top and bottom there should also be one screws in the top back corner and one in the lower back corner. This so the cabinets won’t pull apart if they are aren’t perfectly level or flat against the wall.
 
 Drill plumbing holes with a hole **2 3/8” hol saw** or **1” spade bit** when possible. 
 
